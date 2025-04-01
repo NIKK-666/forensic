@@ -1,0 +1,29 @@
+# Data manipulation and processing
+pandas==2.0.3
+numpy==1.24.3
+
+# Machine learning models and evaluation
+scikit-learn==1.2.2
+xgboost==1.7.3
+lightgbm==3.3.2
+joblib==1.2.0
+matplotlib==3.7.1
+
+# Encoding and preprocessing
+category-encoders==2.5.0
+imbalanced-learn==0.10.0
+
+# For creating synthetic data and handling randomness
+random2==1.0.1
+
+# For any visualizations (optional)
+seaborn==0.11.2
+
+# For using AI tools like transformers or GPT models
+openai==0.27.5
+
+# For saving and loading models
+joblib==1.2.0
+
+# Additional utility libraries
+python-dotenv==0.21.0
